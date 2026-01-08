@@ -8,10 +8,17 @@
 # Lightweight React JSON Schema form builder with true cross-application form reuse
 
 ## Supported Themes 
-- [**Material UI** ](https://formengine.io/react-form-components-library#ui-libraries?utm_source=github&utm_medium=article&utm_campaign=readme&utm_term=mui)
-- [**ShadCN**](https://formengine.io/react-form-components-library#ui-libraries?utm_source=github&utm_medium=article&utm_campaign=readme&utm_term=shadcn)
+- [**MUI** ](https://formengine.io/react-form-components-library#ui-libraries?utm_source=github&utm_medium=article&utm_campaign=readme&utm_term=mui)
+- [**ShadCN**](https://formengine.io/react-form-components-library#ui-librarie?utm_source=github&utm_medium=article&utm_campaign=readme&utm_term=shadcn)
 - [**RSuite**](https://formengine.io/react-form-components-library#ui-libraries?utm_source=github&utm_medium=article&utm_campaign=readme&utm_term=rsuite)
 - [**Mantine**](https://formengine.io/react-form-components-library#ui-libraries?utm_source=github&utm_medium=article&utm_campaign=readme&utm_term=mantine)
+
+## Supported Themes Soon (Click licnk to check status) 
+- [**Tailwind** ](https://formengine.io/react-form-components-library/tailwind/?utm_source=github&utm_medium=article&utm_campaign=readme&utm_term=tailwind) 
+- [**Ant Design**](https://formengine.io/react-form-components-library/ant-design/?utm_source=github&utm_medium=article&utm_campaign=readme&utm_term=ant-design)
+- [**Bootstrap**](https://formengine.io/react-form-components-library/bootstrap/?utm_source=github&utm_medium=article&utm_campaign=readme&utm_term=bootstrap)
+- [**Chakra-ui**](https://formengine.io/react-form-components-library/chakra-ui/?utm_source=github&utm_medium=article&utm_campaign=readme&utm_term=chakra-ui)
+- [**Daisy UI**](https://formengine.io/react-form-components-library/daisyui/?utm_source=github&utm_medium=article&utm_campaign=readme&utm_term=daisyui)
 
 ## Simple Form Example
 [![Formengine](https://formengine.io/repository-images/simpleform.png)](https://formengine.io/documentation/?utm_source=github&utm_medium=article_banner-for&utm_campaign=readme#quick-start)
