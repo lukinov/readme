@@ -18,8 +18,20 @@
 - [**Bootstrap**](https://formengine.io/react-form-components-library/bootstrap/?utm_source=github&utm_medium=article&utm_campaign=readme&utm_term=bootstrap)
 - [**Chakra-ui**](https://formengine.io/react-form-components-library/chakra-ui/?utm_source=github&utm_medium=article&utm_campaign=readme&utm_term=chakra-ui)
 - [**Daisy UI**](https://formengine.io/react-form-components-library/daisyui/?utm_source=github&utm_medium=article&utm_campaign=readme&utm_term=daisyui)
+ 
+### Bundle size (Core)
 
-## Bundle Size Comparison 
+| Package | Gzipped size | UI dependencies | Description |
+|--------|--------------|-----------------|-------------|
+| **FormEngine Core** | **~10–15 KB** | None | Pure form runtime. UI-agnostic, deterministic execution |
+| React JSON Schema Form (RJSF) | ~45–60 KB | React | Schema-driven form renderer (core package only) |
+| Formik | ~15–20 KB | React | Form state management, not a runtime |
+| React Hook Form | ~9–11 KB | React | Lightweight form state, UI-driven |
+
+<small>
+Bundle sizes are approximate and depend on build configuration, tree-shaking, and selected features.  
+Figures represent library bundles only and exclude React and application code.
+</small>
 
 
 ## Simple Form Example
