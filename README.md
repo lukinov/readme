@@ -13,9 +13,9 @@
 - [**RSuite**](https://formengine.io/react-form-components-library#ui-libraries?utm_source=github&utm_medium=article&utm_campaign=readme&utm_term=rsuite)
 - [**Mantine**](https://formengine.io/react-form-components-library#ui-libraries?utm_source=github&utm_medium=article&utm_campaign=readme&utm_term=mantine)
 
-### Simple Form Example
+## Simple Form Example
 [![Formengine](https://formengine.io/repository-images/simpleform.png)](https://formengine.io/documentation/?utm_source=github&utm_medium=article_banner-for&utm_campaign=readme#quick-start)
-### Simple Form JSON Example
+## Simple Form JSON Example
 ```JSON  
  {
   "version": "1",
@@ -81,7 +81,7 @@
 <summary> Click to see how you can define your entire form in JSON and render it with Formengine Core. </summary>
 
 
- ### Here’s a simple form example you can use in your React app.
+ ## Here’s a simple form example you can use in your React app.
 
 ```tsx
 import { viewWithCss } from '@react-form-builder/components-rsuite'
@@ -145,7 +145,7 @@ export const App = () => (
  ```
 </details> 
 
-### 📦 Formengine Core Installation. 
+## 📦 Formengine Core Installation. 
 **It’s time to use something better. Install the core package and RSuite free form components:**  
  ```bash  
  npm install @react-form-builder/core @react-form-builder/components-rsuite  
@@ -245,7 +245,7 @@ A powerful commercial drag-and-drop form builder for React, built on top of the 
 [![Formengine Drag and n Drop](https://formengine.io/repository-images/DND-react-form-builder.png)](https://formbuilder.formengine.io?utm_source=github&utm_medium=banner&utm_campaign=readme)
 
 
-### 📦 Formengine Core Installation. 
+## 📦 Formengine Core Installation. 
 **It’s time to use something better. Install the core package and RSuite free form components:**  
  ```bash  
  npm install @react-form-builder/core @react-form-builder/components-rsuite  
