@@ -1,4 +1,3 @@
-## React forms library
 [![Formengine](https://formengine.io/repository-images/hero-1.jpg)](https://formengine.io/documentation/?utm_source=github&utm_medium=banner-top&utm_campaign=readme#quick-start)
 <!-- ==================== FORMENGINE CORE BADGES ==================== -->
 [![Total Downloads](https://img.shields.io/npm/dt/@react-form-builder/core?style=for-the-badge&logo=npm&color=4286F4)](https://www.npmjs.com/package/@react-form-builder/core)
@@ -6,9 +5,13 @@
 [![Open Issues](https://img.shields.io/github/issues/optimajet/formengine?style=for-the-badge&logo=github&logoColor=white&color=orange)](https://github.com/optimajet/formengine/issues)
 [![Closed Issues](https://img.shields.io/github/issues-closed/optimajet/formengine?style=for-the-badge&logo=github&logoColor=white&color=green)](https://github.com/optimajet/formengine/issues?q=is%3Aissue+is%3Aclosed)
 <!-- ================================================================ -->
-### Struggled with React Hook Form, Formik, or TanStack Form? You’re not alone. It’s time to use something better. Forms shouldn’t be this hard!
+# Lightweight React JSON Schema form builder with true cross-application form reuse. Build once, deploy everywhere, with no deep React knowledge required.
 
-#### That’s why we built Formengine Core — a JSON-first React Form Renderer and open-source form engine for React. Describe your form in JSON and render it across your apps. No hooks. No context. No boilerplate. No pain.
+## Supported Themes 
+- [**Material UI** ](https://formengine.io/react-form-components-library#ui-libraries?utm_source=github&utm_medium=article&utm_campaign=readme&utm_term=mui)
+- [**ShadCN**](https://formengine.io/react-form-components-library#ui-libraries?utm_source=github&utm_medium=article&utm_campaign=readme&utm_term=shadcn)
+- [**RSuite**](https://formengine.io/react-form-components-library#ui-libraries?utm_source=github&utm_medium=article&utm_campaign=readme&utm_term=rsuite)
+- [**Mantine**](https://formengine.io/react-form-components-library#ui-libraries?utm_source=github&utm_medium=article&utm_campaign=readme&utm_term=mantine)
 
 ### Simple Form Example
 [![Formengine](https://formengine.io/repository-images/simpleform.png)](https://formengine.io/documentation/?utm_source=github&utm_medium=article_banner-for&utm_campaign=readme#quick-start)
