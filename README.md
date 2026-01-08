@@ -19,7 +19,7 @@
 - [**Chakra-ui**](https://formengine.io/react-form-components-library/chakra-ui/?utm_source=github&utm_medium=article&utm_campaign=readme&utm_term=chakra-ui)
 - [**Daisy UI**](https://formengine.io/react-form-components-library/daisyui/?utm_source=github&utm_medium=article&utm_campaign=readme&utm_term=daisyui)
  
-### Bundle size (Core)
+## Bundle size (Core)
 
 | Package | Gzipped size | UI dependencies | Description |
 |--------|--------------|-----------------|-------------|
@@ -33,6 +33,11 @@ Bundle sizes are approximate and depend on build configuration, tree-shaking, an
 Figures represent library bundles only and exclude React and application code.
 </small>
 
+## 📦 Formengine Core Installation. 
+**It’s time to use something better. Install the core package and RSuite free form components:**  
+ ```bash  
+ npm install @react-form-builder/core @react-form-builder/components-rsuite  
+ ```  
 
 ## Simple Form Example
 [![Formengine](https://formengine.io/repository-images/simpleform.png)](https://formengine.io/documentation/?utm_source=github&utm_medium=article_banner-for&utm_campaign=readme#quick-start)
@@ -166,11 +171,6 @@ export const App = () => (
  ```
 </details> 
 
-## 📦 Formengine Core Installation. 
-**It’s time to use something better. Install the core package and RSuite free form components:**  
- ```bash  
- npm install @react-form-builder/core @react-form-builder/components-rsuite  
- ```  
 
 ## 💙 Why developers love Formengine Core?
 
