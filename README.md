@@ -19,7 +19,7 @@
 - [**Chakra-ui**](https://formengine.io/react-form-components-library/chakra-ui/?utm_source=github&utm_medium=article&utm_campaign=readme&utm_term=chakra-ui)
 - [**Daisy UI**](https://formengine.io/react-form-components-library/daisyui/?utm_source=github&utm_medium=article&utm_campaign=readme&utm_term=daisyui)
  
-## Bundle size Formengine Core for comparison with popular library
+## Bundle size FormEngine Core (for comparison with popular libraries)
 
 | Package | Gzipped size | UI dependencies | Description |
 |--------|--------------|-----------------|-------------|
