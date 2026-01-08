@@ -5,7 +5,7 @@
 [![Release date](https://img.shields.io/github/release-date/optimajet/formengine?style=for-the-badge&logo=github&logoColor=white&color=4286F4)](https://github.com/optimajet/formengine/releases)
 [![Total Downloads](https://img.shields.io/npm/dt/@react-form-builder/core?style=for-the-badge&logo=npm&color=4286F4)](https://www.npmjs.com/package/@react-form-builder/core)
 <!-- ================================================================ -->
-# Lightweight React JSON Schema form builder library for MUI, ShadCN, RSuite,Mantine
+# Lightweight React JSON Schema form builder library for MUI, ShadCN, RSuite, Mantine
 ## Supported Themes 
 - [**MUI** ](https://formengine.io/react-form-components-library#ui-libraries?utm_source=github&utm_medium=article&utm_campaign=readme&utm_term=mui)
 - [**ShadCN**](https://formengine.io/react-form-components-library#ui-librarie?utm_source=github&utm_medium=article&utm_campaign=readme&utm_term=shadcn)
