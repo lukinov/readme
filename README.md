@@ -38,7 +38,8 @@ Figures represent library bundles only and exclude React and application code.
  ```bash  
  npm install @react-form-builder/core @react-form-builder/components-rsuite  
  ```  
-
+## Simple Form MUI Example
+[![Formengine](https://formengine.io/repository-images/simpleform-mui.png)](https://formengine.io/documentation/?utm_source=github&utm_medium=article_banner-for&utm_campaign=readme#quick-start)
 ## Simple Form Example
 [![Formengine](https://formengine.io/repository-images/simpleform.png)](https://formengine.io/documentation/?utm_source=github&utm_medium=article_banner-for&utm_campaign=readme#quick-start)
 ## Simple Form JSON Example
