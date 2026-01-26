@@ -11,12 +11,13 @@
 ## Supported Themes
 
 - [**MUI**](https://formengine.io/react-form-components-library/mui/?utm_source=github&utm_medium=article&utm_campaign=readme&utm_term=mui)
-- [**shadcn/ui**](https://formengine.io/react-form-components-library/shadcn-ui/?utm_source=github&utm_medium=article&utm_campaign=readme&utm_term=shadcn)
 - [**React Suite**](https://formengine.io/react-form-components-library?utm_source=github&utm_medium=article&utm_campaign=readme&utm_term=rsuite#free)
-- [**Mantine UI**](https://formengine.io/react-form-components-library/mantine/?utm_source=github&utm_medium=article&utm_campaign=readme&utm_term=mantine)
+
 
 ## Supported Themes — coming soon (click link to check status)
 
+- [**shadcn/ui**](https://formengine.io/react-form-components-library/shadcn-ui/?utm_source=github&utm_medium=article&utm_campaign=readme&utm_term=shadcn)
+- [**Mantine UI**](https://formengine.io/react-form-components-library/mantine/?utm_source=github&utm_medium=article&utm_campaign=readme&utm_term=mantine)
 - [**Tailwind**](https://formengine.io/react-form-components-library/tailwind/?utm_source=github&utm_medium=article&utm_campaign=readme&utm_term=tailwind)
 - [**Ant Design**](https://formengine.io/react-form-components-library/ant-design/?utm_source=github&utm_medium=article&utm_campaign=readme&utm_term=ant-design)
 - [**Bootstrap**](https://formengine.io/react-form-components-library/bootstrap/?utm_source=github&utm_medium=article&utm_campaign=readme&utm_term=bootstrap)
