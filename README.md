@@ -11,7 +11,7 @@
 ## Supported Themes
 
 - [**MUI**](https://formengine.io/react-form-components-library/mui/?utm_source=github&utm_medium=article&utm_campaign=readme&utm_term=mui)
-- [**React Suite**](https://formengine.io/react-form-components-library#free?utm_source=github&utm_medium=article&utm_campaign=readme&utm_term=rsuite)
+- [**React Suite**](https://formengine.io/react-form-components-library/?utm_source=github&utm_medium=article&utm_campaign=readme&utm_term=rsuite#free)
 
 
 ## Supported Themes — coming soon (click link to check status)
