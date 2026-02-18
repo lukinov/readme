@@ -2,7 +2,7 @@
 	<a href="https://formengine.io/?utm_source=github&utm_medium=hero-banner&utm_campaign=mantine-readme-core" target="_blank">
 		<sup>Special thanks to:</sup>
 		<br>
-		<img alt="Formengine sponsorship" width="400" src=readme-assets/mantine3.png?version=1">
+		<img alt="Formengine sponsorship" width="400" src="https://formengine.io/ads-images/mantine3.png?version=1">
 		<br>
 		<h>FormEngine Core – Lightweight React JSON Schema form builder library for Mantine</b>
 		<br>
