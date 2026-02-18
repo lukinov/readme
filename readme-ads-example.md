@@ -1,5 +1,5 @@
 <div align="center">
-	<a href="https://formengine.io/documentation?utm_source=github&utm_medium=hero-banner&utm_campaign=mantine-readme-core" target="_blank">
+	<a href="https://formengine.io/documentation/components-library/mantine/#getting-started-with-mantine-components?utm_source=github&utm_medium=hero-banner&utm_campaign=mantine-readme-core" target="_blank">
 		<sup>Special thanks to:</sup>
 		<br>
 		<img alt="Formengine sponsorship" width="400" src="https://formengine.io/ads-images/mantine3.png?version=1">
